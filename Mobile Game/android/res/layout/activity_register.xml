@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="@drawable/loginbackground"
+    tools:context=".Register">
+
+    <!--Creating the title "Register"-->
+    <ImageView
+        android:id="@+id/login_title"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:src="@drawable/registertitle"
+        android:background="#00000000" />
+
+    <!--Creating the input field for email-->
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextColor="#FFFFFF"
+        app:boxBackgroundColor="#080808">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/email"
+            android:hint="@string/email"
+            android:textColor="#FFFFFF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--Creating the input field for username-->
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextColor="#FFFFFF"
+        app:boxBackgroundColor="#080808">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/username"
+            android:hint="@string/username"
+            android:textColor="#FFFFFF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--Creating the input field for password-->
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:hintTextColor="#FFFFFF"
+        app:boxBackgroundColor="#080808">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/password"
+            android:hint="@string/password"
+            android:textColor="#FFFFFF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--Creating the register button-->
+    <ImageButton
+        android:id="@+id/register_btn"
+        android:text="@string/register"
+        android:layout_marginTop="15dp"
+        android:layout_width="180dp"
+        android:layout_height="38dp"
+        android:scaleType="fitCenter"
+        android:background="@drawable/round"
+        android:src="@drawable/register"/>
+
+    <!--Added option to login instead-->
+    <TextView
+        android:id="@+id/login_opt"
+        android:text="@string/already_have_an_account_login_here"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <!--Creating a "play as guest" button-->
+    <ImageButton
+        android:id="@+id/startGameButton"
+        android:layout_marginTop="15dp"
+        android:layout_width="180dp"
+        android:layout_height="38dp"
+        android:scaleType="fitCenter"
+        android:background="@drawable/round"
+        android:src="@drawable/playasguest" />
+
+</LinearLayout>

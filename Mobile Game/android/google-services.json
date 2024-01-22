@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "684224508956",
+    "firebase_url": "https://comp90018-final-database-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "comp90018-final-database",
+    "storage_bucket": "comp90018-final-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684224508956:android:7b4de86fa183dcc0d4dbd9",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPO5-uThoO-z7X5tqPHsjC9_mbpiV9pgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

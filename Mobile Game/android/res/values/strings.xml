@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My GDX Game</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? Register here!</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login_here">Already have an account? Login here!</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="username">username</string>
+
+</resources>

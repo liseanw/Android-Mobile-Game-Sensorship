@@ -1,0 +1,689 @@
+commit 258e4880ea976a7009ebc8ab15a3e0d886cc62ca
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Wed Nov 8 22:01:37 2023 +1100
+
+    balance changes
+
+commit c8413074505d33988976c95cd82b8576e0da3e00
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Wed Nov 8 21:59:56 2023 +1100
+
+    change censor timer
+
+commit c721efedd7bfb572d054163e42dcebcfd6205f3d
+Merge: f53dd2f e0647c8
+Author: BrandonWidjaja <80396203+BrandonWidjaja@users.noreply.github.com>
+Date:   Wed Nov 8 21:48:46 2023 +1100
+
+    Merge pull request #5 from jiayao3/sensortest
+    
+    implement censor
+
+commit e0647c82436c0d074c2896f762b1325a6dfd5097
+Author: BrandonWidjaja <w1djaja.brand0n1@gmail.com>
+Date:   Wed Nov 8 21:46:57 2023 +1100
+
+    add censor spawning
+
+commit 803ccfd45a8e5510f39d61ada59f0a9b42d3ab31
+Merge: f5e2ce1 f53dd2f
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Wed Nov 8 21:27:02 2023 +1100
+
+    Merge branch 'main' into sensortest
+
+commit f5e2ce1300064ffa1966a529842255f5aac5ea33
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Wed Nov 8 21:25:40 2023 +1100
+
+    bug fix
+
+commit f53dd2ff807e25e8e78e98b68d63597089d66b0a
+Merge: 174f94e 4a06c96
+Author: BrandonWidjaja <80396203+BrandonWidjaja@users.noreply.github.com>
+Date:   Wed Nov 8 19:53:16 2023 +1100
+
+    Merge pull request #4 from jiayao3/sensortest
+    
+    merge sensor thresholds
+
+commit 4a06c9678efc0983b7897b46229722a03b7b76b1
+Author: BrandonWidjaja <w1djaja.brand0n1@gmail.com>
+Date:   Wed Nov 8 19:39:16 2023 +1100
+
+    testing sensors
+
+commit 174f94e84efb45ae67e313b2b0915bacd244b78e
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Wed Nov 8 19:13:51 2023 +1100
+
+    missile working
+
+commit 3fe37c16cf83c485c10f0fc6159c4b97f9b5bec6
+Author: BrandonWidjaja <w1djaja.brand0n1@gmail.com>
+Date:   Wed Nov 8 18:45:11 2023 +1100
+
+    add cooldown for voice and face
+
+commit 53338aa7376d72003836bb97cf6b92e0613337c9
+Author: BrandonWidjaja <w1djaja.brand0n1@gmail.com>
+Date:   Wed Nov 8 18:35:52 2023 +1100
+
+    add delay
+
+commit 8e4fea921d365f26323f5d0776f87879d93b8a11
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Wed Nov 8 18:17:36 2023 +1100
+
+    guest bug fix and draw missiles
+
+commit 96ea7fb59c082eba59fb6b5134cc3615653e7478
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Wed Nov 8 17:42:50 2023 +1100
+
+    Updated UI for login, leaderboard and game
+
+commit 9df8e1f565f89a30424e3a16fc600f2f6bb8d434
+Merge: 18230bc 44b5d18
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Wed Nov 8 10:54:33 2023 +1100
+
+    Merge branch 'change-pause-menu-button'
+
+commit 18230bc7ea5fefed124cf1e0ff24cd2e8304b552
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Mon Nov 6 00:50:28 2023 +1100
+
+    updated leveling up screen
+    
+    so that it does not change too fast when accidentally touched the screen
+
+commit 9ce764ac47fa08838fdadbf46a8b42a977e3aff4
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Sun Nov 5 23:56:24 2023 +1100
+
+    Edited lose screen font
+    
+    1. change the font to match the pause screen
+    
+    2. set the font size to match the screen size
+
+commit fabb480d216d72b3091378e197dd67c46211d6ac
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Sun Nov 5 23:35:39 2023 +1100
+
+    Spaceship animation (when got hit)
+
+commit 44b5d1849bca486ee7ec7213c7c436c841ee55df
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sun Nov 5 00:42:26 2023 +1100
+
+    Leaderboard font changed
+
+commit 3ebc0d67b493f239a5fb7aa814095be91d1d63cb
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Sat Nov 4 22:19:52 2023 +1100
+
+    back-to-menu-while-playing bug fixed
+
+commit f34bc2683846d65e63294065b1577b9ef18812ea
+Merge: df4bb94 b736cd7
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Sat Nov 4 22:16:18 2023 +1100
+
+    Merge branch 'change-pause-menu-button'
+
+commit 09a8741c8cc0b206e6d5d4f4b96e6d25618f6bf3
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Nov 4 22:11:27 2023 +1100
+
+    Explosion animation bug fixed
+
+commit b736cd72d8410d652150e40300501526da4ff115
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Nov 4 18:51:52 2023 +1100
+
+    Button listener bug fixed
+
+commit df4bb94ea5d4f9708b9904587eba3ac07e2db022
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Sat Nov 4 01:02:57 2023 +1100
+
+    score bug fixed
+    
+    the score was not reset when returning to the menu
+
+commit f0f352ca4485f9c13f2a714e2a5b2de5864f9a6f
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Sat Nov 4 01:01:32 2023 +1100
+
+    pause screen back to updated (was deleted by someon)
+
+commit 0c1ed6129fd09851bd49cd78e8812ed9a92ca883
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Sat Nov 4 00:57:16 2023 +1100
+
+    change pause menu button
+
+commit fa88e0298b370813cb0e0d2457b5f44463e53579
+Merge: f006ede 4693e02
+Author: lamooiety <104620130+lamooiety@users.noreply.github.com>
+Date:   Fri Nov 3 17:27:54 2023 +1100
+
+    Merge pull request #3 from jiayao3/try-to-reformat-menu-screen
+    
+    Try to reformat menu screen
+
+commit 4693e027439fce8beb2ffd9a67d9085939b7660a
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Fri Nov 3 17:26:43 2023 +1100
+
+    button updated on menu screen
+
+commit dc99134bafa8ec986f2de7720395361808398f41
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Fri Nov 3 17:10:53 2023 +1100
+
+    update with background & title on menu screen
+
+commit f006ede9bddf74b9841c4beea1855d5e879e3524
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Thu Nov 2 16:46:53 2023 +1100
+
+    Meteor animation added
+
+commit b3fb79934557367c6b818b9f89ca2c50ef16b064
+Merge: f10d138 44da8ff
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Thu Nov 2 15:28:25 2023 +1100
+
+    Merge branch 'main' of https://github.com/jiayao3/COMP90018Group100
+
+commit f10d1386bba0497dcbde335a84094f4a586ee50c
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Thu Nov 2 15:28:22 2023 +1100
+
+    Create a class for customisedButtonStyle
+
+commit 44da8ff0cae59fcf92090100a046f1c4785bec58
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Nov 2 09:31:23 2023 +1100
+
+    Face mesh bug fixed
+
+commit 3834e4208e5522d682d4f10877bbc601f4454596
+Merge: e76c937 e8dfe3a
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Nov 2 09:24:39 2023 +1100
+
+    Merge branch 'sean'
+
+commit e76c93792c3ff2a3aced9f2957a124d006c2351c
+Merge: f1f3484 856004e
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Nov 2 09:21:47 2023 +1100
+
+    Merge remote-tracking branch 'origin/Censor-bars'
+
+commit f1f34846ed31e10ef45a015bd70010ffba3e6422
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Thu Nov 2 02:03:12 2023 +1100
+
+    Option Screen Style Updated
+    
+    1. figured out the way of importing customised font to uiskin
+        - the font size is not flexible, if you want a different size but same font style, you need to import a new one from start;
+    
+    2. TextButton.TextButtonStyle can set the font color depending on the button mode (up, down, checked etc...)
+    
+    3. The buttons are set to be logically checked or non-checked
+    
+    4. However, notice that the button color (not font color) is changed by hard code (becuase uiskin does not allow us to change the button color)
+    
+    4. The Back button is made by programming instead of a plain image
+    
+    Large Progress: Make all buttons reactable whenever chosen or clicking, including the back button.
+
+commit e8dfe3a42473c5cd259374929a7a363df87da665
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Thu Nov 2 00:14:04 2023 +1100
+
+    updated profile UI
+
+commit 856004eba55cd3eddf128f70d3f7502e62f287d0
+Author: BrandonWidjaja <w1djaja.brand0n1@gmail.com>
+Date:   Thu Nov 2 00:07:27 2023 +1100
+
+    added censor class implementation
+
+commit 78097a4f020fa6476345930a7a38948cbb632bfe
+Author: BrandonWidjaja <w1djaja.brand0n1@gmail.com>
+Date:   Wed Nov 1 23:48:33 2023 +1100
+
+    Initial commit to censors
+
+commit 5a56db7ee6dc455b62e70ae6d2ee3d839e4c3373
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Wed Nov 1 18:28:48 2023 +1100
+
+    try add text background
+
+commit a51242f89db9fe7840f72528505a60ded200ff23
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Wed Nov 1 03:35:05 2023 +1100
+
+    updated UI for login and register page
+
+commit 0bd46e3dd2b0362f02aa3a7fdcb5f666232e3a85
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Wed Nov 1 03:12:05 2023 +1100
+
+    updated login button
+
+commit db0f58d61a463f3f408b13245afcfa27f3fdb161
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Wed Nov 1 03:03:54 2023 +1100
+
+    Fixed replay crashing for Play as Guest
+
+commit d60dd10c5069d65ef5782f25eecc62339ea9e0a4
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Wed Nov 1 03:03:27 2023 +1100
+
+    Updated register page with image buttons
+
+commit 5d529e802a027b3b324986c51c7bdd40eae8437b
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Wed Nov 1 02:47:32 2023 +1100
+
+    pauseMenu updated 2 (font imported)
+    
+    1. with font imported
+    2. rearranged the strings and buttons
+
+commit faee9ad7cb9591d5cea8d476c80953d1b0c951f0
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Wed Nov 1 02:36:50 2023 +1100
+
+    Updated Login page with ImageButtons
+
+commit ab100e3fe2c2574ee01535d5e4a92fca885da7d9
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Wed Nov 1 02:31:30 2023 +1100
+
+    merged from main
+
+commit b28c8f534347406968b86f4d088bad15ebee250b
+Author: lamooiety <clairesss.no1@gmail.com>
+Date:   Wed Nov 1 01:33:51 2023 +1100
+
+    PauseMenu updated
+    
+    1. added current score
+    2. changed the design of the string
+    3. made it centered based on length of string & screen size
+    
+    TODO: import a customised font
+
+commit 38bcb3b26acd4bd4260506bdf5ee0af82d5d841c
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Tue Oct 31 23:00:43 2023 +1100
+
+    replay function after lose
+
+commit 551b10f290cff4c248d0e11e06559669c414c485
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Tue Oct 31 19:44:38 2023 +1100
+
+    changed reading score as Long to Integer
+
+commit 27f6f984f0eeb83b80b281882d59bc72fcc090bf
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Tue Oct 31 19:06:56 2023 +1100
+
+    Merge score upload implementation to main
+
+commit 9ccc8ef6cbe0f71017dd1a4ca9f0fc89df09287a
+Merge: 145d6cb f03fc51
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Tue Oct 31 18:59:48 2023 +1100
+
+    Merge branch 'sean'
+
+commit f03fc5145fdc7f3397df232b80bffc1ce6f5e89b
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Tue Oct 31 18:41:11 2023 +1100
+
+    created getLeaderboard function to display leaderboard
+
+commit 9b3f3f9fc7d5213f66ea9480e2a6e0b4498b5682
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Mon Oct 30 20:38:29 2023 +1100
+
+    updates highscore only if new score is higher
+
+commit d5229b191c8d8e458e408f8526ec2b1fff883649
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Mon Oct 30 20:06:57 2023 +1100
+
+    Score upload implementation
+
+commit 5ab33a216295b88b7d126e08903674b996cd9645
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Mon Oct 30 17:58:39 2023 +1100
+
+    added username and cloud accesibility
+
+commit 145d6cbd8739a90d786915e02707383e25a3e0b5
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sun Oct 29 23:03:57 2023 +1100
+
+    Bug fixed
+
+commit 53c1318afeb97f3231aa5f4bc84ad8b6fd3548f4
+Merge: 780342e e1272c6
+Author: jiayao3 <80800371+jiayao3@users.noreply.github.com>
+Date:   Sun Oct 29 22:51:22 2023 +1100
+
+    Merge pull request #2 from jiayao3/UI
+    
+    UI
+
+commit e1272c661a42da8753b761d3bcc6e9701f66190c
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sun Oct 29 22:49:31 2023 +1100
+
+    Game Title added
+
+commit f689b472ae257e69a3441bf414d950c897508423
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sun Oct 29 22:04:13 2023 +1100
+
+    Game Background image added
+
+commit 922d0681f14547b5c86c79200c28f8eb276f4b2a
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sun Oct 29 21:45:24 2023 +1100
+
+    Menu and button design changed
+
+commit 780342e80f12689586af0dbaebe7080096583135
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 23:54:35 2023 +1100
+
+    mode settings option added
+
+commit 0b00a8d36a3f6cb689bf0e6b7a865e4781411f7d
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 22:45:39 2023 +1100
+
+    Merge conflict fixed
+
+commit 6d0fbd6f3ed392af108594a361957967bf3e1c26
+Merge: 6d57342 af432e8
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 22:41:25 2023 +1100
+
+    Merge branch 'troy2'
+
+commit af432e8358e33b5fb0947a120bfce3d64ea9baf8
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Sat Oct 28 22:31:00 2023 +1100
+
+    minor change to laser and power up spawn
+
+commit 6d3929485d0b50923f773f8bec4f06b46b88bb7c
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Sat Oct 28 22:22:27 2023 +1100
+
+    Added game stage and playstyle
+
+commit 6d57342f85464090045ce05e676983ebb44c0a1e
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 20:08:24 2023 +1100
+
+    Code Cleaning
+
+commit 725c3e6b7ebdbe1ddbbc8f9ee2e70c9a7f88a1e8
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Oct 28 20:03:51 2023 +1100
+
+    Added Face recognition from main
+
+commit 6f6218aab842545d6ae054653f607cbf9c879ea0
+Merge: 53ab203 e8bc73e
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 19:44:24 2023 +1100
+
+    Merge branch 'main' into CameraTesting2
+
+commit e8bc73e47f6b23fd3a6be930d398a4a2a097a4e0
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Oct 28 19:40:51 2023 +1100
+
+    Merged from Sean, changed UI layout
+
+commit 4431659b93388883121e3b368536bac27f4bc044
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Oct 28 19:36:52 2023 +1100
+
+    Changed UI layout
+
+commit 53ab203d0197e10bc705c340b8005f8f4c90002e
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 16:50:03 2023 +1100
+
+    Setting Screen added
+    
+    Font changed, Menu Screen changed (new button added).
+
+commit bb9f8432d4e4f13c4e3a79c3c52972dc8b017ccf
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 06:02:38 2023 +1100
+
+    FaceMesh Class added
+
+commit 807fe513a1508080dc773416784b1e395342b748
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 05:58:30 2023 +1100
+
+    Virtual Face Mesh added
+
+commit 1127496de655b63ba6d63bd6b9d499cfb1b3835b
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 03:56:40 2023 +1100
+
+    Eyes blinking detection added
+
+commit 44a871fd2c78647bda8580a01cd09c52287ee8b7
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Sat Oct 28 01:09:25 2023 +1100
+
+    Face control added
+    
+    User able to use face to control the spaceship
+
+commit 7db2a15bed8f3896a5bf0ad010cbf51eb1c836e5
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Thu Oct 26 16:48:59 2023 +1100
+
+    removed unused mainfile
+
+commit 296421eefee645dec1142e740c0b8fc0de2e700d
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Thu Oct 26 16:21:00 2023 +1100
+
+    separated profile page and game page
+
+commit 8c1353c48e5e1e35697b055de11b63fccd35df5f
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Thu Oct 26 16:13:08 2023 +1100
+
+    Incorporated the game
+
+commit 04285cd4ddfe55e9e7cd0ec9a49977b69e1469be
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Thu Oct 26 15:50:30 2023 +1100
+
+    Change asset
+
+commit 6e9306dd54fa972b4555f03e1b3bce05a75256d4
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Oct 26 00:03:17 2023 +1100
+
+    mediapipe facemesh added
+
+commit 97f852ed3494618b98b2ee41ba6014bcab4197f4
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Wed Oct 25 17:44:03 2023 +1100
+
+    Camera Implementation Testing
+
+commit e29c3990258ac87421af08bd225194103b685284
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Wed Oct 25 15:03:20 2023 +1100
+
+    empty view activity added
+
+commit cae01decc9cb79863af898d372c181984993ed67
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Oct 19 14:30:50 2023 +1100
+
+    LeaderBoardButton added to menu
+
+commit 1efd76d861b6a204447476a57e05665125c02e2a
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Oct 19 14:20:19 2023 +1100
+
+    leader board UI added
+
+commit 0dbcc24f7362dd7fcdbead83abe9ae2936ff42a3
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Oct 19 02:24:33 2023 +1100
+
+    gyroscope sensor added to the game
+    
+    Spaceship move left and right in response to the gyroscope sensor
+    
+    Co-Authored-By: lamooiety <104620130+lamooiety@users.noreply.github.com>
+
+commit 6294ff970a20b357a150c02d22b192130ede5cac
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Oct 19 01:00:00 2023 +1100
+
+    audio sensor added to the game
+    
+    Spaceship fire laser when audio sensor surpassed threshold.
+    
+    Co-Authored-By: BrandonWidjaja <80396203+BrandonWidjaja@users.noreply.github.com>
+
+commit 9662a4fe70c0f1661447bb82feb80bf119fb58be
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Thu Oct 19 00:13:18 2023 +1100
+
+    sprite and font size changed
+
+commit b92814586686e58d992dc88dcaaf852070e82655
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Wed Oct 18 04:56:39 2023 +1100
+
+    pause button and menu added
+
+commit 4915816a131be79f9ff052845809bfe4dcd32cc5
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Wed Oct 18 00:45:19 2023 +1100
+
+    Player Healthbar UI added
+
+commit 540d16032351787e66d4c37c78158ae55fefc4fd
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Wed Oct 18 00:06:59 2023 +1100
+
+    screen package and menu added
+
+commit f1ceb1938a75effbd909a510173ab93eca320918
+Merge: f646b9c 0d97458
+Author: jiayao3 <80800371+jiayao3@users.noreply.github.com>
+Date:   Tue Oct 17 09:21:04 2023 +1100
+
+    Merge pull request #1 from jiayao3/troy
+    
+    Game Created in Android Studio
+
+commit 0d974585d16b81e12edeae3f5c87c1a93b1f6df6
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Tue Oct 17 09:19:19 2023 +1100
+
+    UFO healthbar and player control added
+
+commit 0149a10419a5ad16625a3388a151a8a043efbcad
+Author: jiayao3 <wujiayao.jiayao@gmail.com>
+Date:   Tue Oct 17 08:43:04 2023 +1100
+
+    game runs on android studio
+
+commit 165c8819ed6a9f18e46d3e43019ebd3369482092
+Author: troyleong7 <80636038+troyleong7@users.noreply.github.com>
+Date:   Sun Oct 15 18:27:51 2023 +1100
+
+    game implementation
+
+commit e5b6fd7f94b14c4563260be5901b9888370082ba
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Sep 23 09:30:05 2023 +1000
+
+    Added an exit button to the register and login page
+
+commit c727e94ce70d3900da73fadf48546c3daf7b655b
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Sep 23 09:17:40 2023 +1000
+
+    Fixed profile page not loading
+
+commit a0c83140fee28b5bb8e3687d23df2bba467f8650
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Sep 23 09:09:27 2023 +1000
+
+    Created a simple profile page
+
+commit 616d84f8e1a79f6d6dfda36fc91ff9a9f2d04464
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Sep 23 08:45:39 2023 +1000
+
+    Added Login/Register checking
+
+commit d06f024628eea775d3eef8439fd1bac9898a3b96
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Sep 23 08:31:57 2023 +1000
+
+    Added the option to register instead or login instead
+
+commit c51dcb7440385197cfff85479972239566335393
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Sep 23 08:03:15 2023 +1000
+
+    Created a simple registration page
+
+commit 023b6f6d68943a95e85411792170ee15f05b4b17
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Sat Sep 23 07:58:40 2023 +1000
+
+    Created a simple login page
+
+commit 10bff357670de93c30313f47f5482fa02dd87431
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Fri Sep 22 02:12:42 2023 +1000
+
+    Added firebase files and configurations
+
+commit 1e730060e732d5fd30e65d83a5c407b0f534c5e8
+Author: Sean <liseanw@student.unimelb.edu.au>
+Date:   Fri Sep 22 02:03:41 2023 +1000
+
+    Created base file
+
+commit f646b9cb6c1658561166fada240a4c30278029d8
+Author: jiayao3 <80800371+jiayao3@users.noreply.github.com>
+Date:   Tue Sep 12 22:03:24 2023 +1000
+
+    Initial commit
